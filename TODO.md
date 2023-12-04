@@ -1,0 +1,16 @@
+- [x] Update React
+- [x] Update Node (previously I had to use node14, now we can use node18)
+- [x] Remove unwanted packages
+- [x] Add CRACO
+- [x] Use Alias imports
+- [x] Unit Testing
+- [x] Follow Atomic architecture
+- [x] Fix type error in server
+- [x] Use Styled components
+- [x] Search Feature (Client side)
+- [x] Add to Cart Feature
+- [x] Toast Messages
+- [ ] Pagination (Serverside)
+- [ ] Add Redux-Toolkit (if needed)
+- [ ] Use vitejs or Nextjs
+- [ ] Use monorepo to organise multiple apps

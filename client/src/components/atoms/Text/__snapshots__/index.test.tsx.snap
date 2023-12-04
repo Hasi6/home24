@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Image component renders correctly 1`] = `
+.c0 {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+}
+
+@media (min-width: 768px) {
+  .c0 {
+    height: 200px;
+  }
+}
+
+@media (min-width: 992px) {
+  .c0 {
+    height: 250px;
+  }
+}
+
+<img
+  class="c0"
+/>
+`;
+
+exports[`Text component renders correctly 1`] = `
+.c0 {
+  margin: 5px 0;
+}
+
+<p
+  class="c0"
+/>
+`;
